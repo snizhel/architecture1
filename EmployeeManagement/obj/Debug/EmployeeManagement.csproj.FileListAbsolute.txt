@@ -16,3 +16,22 @@ C:\Users\le gia vinh\source\repos\nLayers\EmployeeManagement\bin\Debug\System.Se
 C:\Users\le gia vinh\source\repos\nLayers\EmployeeManagement\bin\Debug\System.Security.Principal.Windows.xml
 C:\Users\le gia vinh\source\repos\nLayers\EmployeeManagement\obj\Debug\EmployeeManagement.exe
 C:\Users\le gia vinh\source\repos\nLayers\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
+D:\repos\architecture1\EmployeeManagement\bin\Debug\EmployeeManagement.exe.config
+D:\repos\architecture1\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+D:\repos\architecture1\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+D:\repos\architecture1\EmployeeManagement\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\repos\architecture1\EmployeeManagement\bin\Debug\System.Security.AccessControl.dll
+D:\repos\architecture1\EmployeeManagement\bin\Debug\System.Security.Permissions.dll
+D:\repos\architecture1\EmployeeManagement\bin\Debug\System.Security.Principal.Windows.dll
+D:\repos\architecture1\EmployeeManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\repos\architecture1\EmployeeManagement\bin\Debug\System.Security.AccessControl.xml
+D:\repos\architecture1\EmployeeManagement\bin\Debug\System.Security.Permissions.xml
+D:\repos\architecture1\EmployeeManagement\bin\Debug\System.Security.Principal.Windows.xml
+D:\repos\architecture1\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.AssemblyReference.cache
+D:\repos\architecture1\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.SuggestedBindingRedirects.cache
+D:\repos\architecture1\EmployeeManagement\obj\Debug\EmployeeManagement.Form1.resources
+D:\repos\architecture1\EmployeeManagement\obj\Debug\EmployeeManagement.Properties.Resources.resources
+D:\repos\architecture1\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.GenerateResource.cache
+D:\repos\architecture1\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\repos\architecture1\EmployeeManagement\obj\Debug\EmployeeManagement.exe
+D:\repos\architecture1\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
