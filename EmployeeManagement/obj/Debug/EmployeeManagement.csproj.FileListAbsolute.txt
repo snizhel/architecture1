@@ -35,3 +35,4 @@ D:\repos\architecture1\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.Ge
 D:\repos\architecture1\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
 D:\repos\architecture1\EmployeeManagement\obj\Debug\EmployeeManagement.exe
 D:\repos\architecture1\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
+D:\repos\architecture1\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CopyComplete
